@@ -1,0 +1,23 @@
+{
+  "name": "pumpkin-patch",
+  "version": "1.0.0",
+  "description": "OOP Pumpkin Patch",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yang70/pumpkin-patch.git"
+  },
+  "author": "Matt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yang70/pumpkin-patch/issues"
+  },
+  "homepage": "https://github.com/yang70/pumpkin-patch#readme",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
+}
